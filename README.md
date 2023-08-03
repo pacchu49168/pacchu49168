@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Prashant Kumar K
-- 👀 I’m interested in SQL
 - 🌱 I’m currently learning ...SQL,Excel, PowerBi and Python 
 -
 .
