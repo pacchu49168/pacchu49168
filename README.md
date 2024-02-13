@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Prashant Kumar K
-- 🌱 I’m currently learning ...SQL,Excel, PowerBi and Python 
+- 🌱 I’m currently learning ...SQL,Excel, PowerBi and Python
+- certified Data Analyst from Grow Data Skills
 -
 .
 
